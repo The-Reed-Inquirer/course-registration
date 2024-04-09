@@ -1,0 +1,784 @@
+"Title","Instructor","Days","Time","Enrolled","Units","Mode","Type"
+"AMER 470 Y - Thesis (American Studies)","Staff",NA,"TBD","0 of 24","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"ANAR 470 Y - Thesis (Anthropology-Art)","Staff",NA,"TBD","0 of 10","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"ANME 100 S Qtr 1 - Topography & Arch of Rome","Sabnis",NA,"TBD","14 of 15","0.25 units","Instruction mode N/A","LECTURE AND CONFERENCE"
+"ANME 261 S - Greek and Roman Mythology","Sabnis","TuTh","15:10 - 16:30","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"ANME 384 S - Archaeology of Egypt and Nubia","Landvatter","TuTh","13:40 - 15:00","20 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ANME 501 S - Pseudo-Archaeology","Landvatter","Tu","19:00 - 20:30","8 of 15","0 units","In-Person Instruction Only","CONFERENCE"
+"ANTH 201 S01 - Topics: Lang, Culture, Power","Makley","MW","13:10 - 14:30","21 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ANTH 201 S02 - Topics: Lang, Culture, Power","Makley","MW","14:40 - 16:00","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"ANTH 201 S03 - Topics: Decolonizng Archaeology","Roche Recinos","TuTh","13:40 - 15:00","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"ANTH 201 S04 - Topics: Decolonizng Archaeology","Roche Recinos","TuTh","15:10 - 16:30","18 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ANTH 305 S - Musical Ethnography","Luker","TuTh","12:00 - 13:20","19 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ANTH 331 S - Archaeology of Reed","Roche Recinos","MW","13:10 - 14:30","4 of 23","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"ANTH 337 S - Black Ecologies in Americas","Staff",NA,NA,NA,NA,NA,"CONFERENCE | CANCELLED"
+"ANTH 349 S - Time and Space","Staff",NA,NA,NA,NA,NA,"CONFERENCE | CANCELLED"
+"ANTH 365 S - Development in China","Staff",NA,NA,NA,NA,NA,"CONFERENCE | CANCELLED"
+"ANTH 375 S - Anthropology of Science","Vaidya","MW","14:40 - 16:00","23 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ANTH 378 S - Nature / Culture / Environ","Dinç","MW","13:10 - 14:30","8 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ANTH 379 S - Resources in Mediterranean","Dinç","TuTh","10:30 - 11:50","7 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ANTH 398 S - Race and Immigration","Silverstein","W","18:10 - 21:00","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"ANTH 425 S - Marx from the South","Vaidya","Tu","15:10 - 18:00","18 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ANTH 461 S - Theories of Practice","Silverstein","TuTh","13:40 - 15:00","8 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ANTH 470 Y - Thesis (Anthropology)","Staff",NA,"TBD","1 of 40","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"ARAB 112 S - Introductory Arabic II","Staff","MTuWThF","12:00 - 12:50","8 of 15","1 unit","In-Person Instruction Only","CONFERENCE"
+"ARAB 212 S - Intermediate Arabic II","Staff",NA,NA,NA,NA,NA,"CONFERENCE | CANCELLED"
+"ARBI 470 Y - Thesis (Art/Biology)","Staff",NA,"TBD","0 of 5","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"AREN 470 Y - Thesis (Art-English)","Staff",NA,"TBD","0 of 10","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"ART 171 S - The Figure","Duford","TuTh","9:00 - 11:50","Full (no wait list available)","1 unit","In-Person Instruction Only","STUDIO"
+"ART 188 S - Object and Social Context","Stevenson Jr","TuTh","9:00 - 11:50","Full (no wait list available)","1 unit","In-Person Instruction Only","STUDIO"
+"ART 201 S01 - Introduction to Art History","Wang","MW","13:10 - 14:30","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"ART 201 S02 - Introduction to Art History","Wang","MW","14:40 - 16:00","20 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ART 274 S - Painting II - Naturecultures","Harrower","MW","13:10 - 16:00","Full (no wait list available)","1 unit","In-Person Instruction Only","STUDIO"
+"ART 282 S - Sculpture in Expanded Field","Ondrizek","MW","13:10 - 16:00","Full (no wait list available)","1 unit","In-Person Instruction Only","STUDIO"
+"ART 284 S - Craft and Culture","Duford","TuTh","13:40 - 16:30","14 of 15","1 unit","In-Person Instruction Only","STUDIO"
+"ART 291 S - Art and Photography II","Miyoshi","TuTh","18:10 - 21:00","Full (no wait list available)","1 unit","In-Person Instruction Only","STUDIO"
+"ART 301 S - Art History Beyond the Visual","Katz","Tu","18:10 - 20:00","14 of 24","0.5 units","In-Person Instruction Only","CONFERENCE"
+"ART 346 S - Introduction to Media Studies","Cohen","MW","13:10 - 14:30","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"ART 351 S - Making Space","Cohen","M","18:10 - 21:00","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"ART 368 S - The Book as Sculptural Object","Tetenbaum","TuTh","13:40 - 16:30","11 of 15","1 unit","In-Person Instruction Only","STUDIO"
+"ART 372 S - Int Experiments in Painting","Harrower","MW","9:00 - 11:50","14 of 18","1 unit","In-Person Instruction Only","STUDIO"
+"ART 374 S - New Media-Old Media Experiment","Miyoshi","TuTh","13:40 - 16:30","10 of 16","1 unit","In-Person Instruction Only","STUDIO"
+"ART 470 Y - Thesis (Art)","Staff",NA,"TBD","1 of 24","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"BIOL 102 S01 - Topics in Biology II","Cerveny","TuTh
+Tu","9:00 - 10:20
+13:10 - 17:00","22 of 24","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"BIOL 102 S02 - Topics in Biology II","Cerveny","TuTh
+W","9:00 - 10:20
+13:10 - 17:00","21 of 24","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"BIOL 102 S03 - Topics in Biology II","Cerveny","TuTh
+Th","9:00 - 10:20
+13:10 - 17:00","19 of 23","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"BIOL 102 S04 - Topics in Biology II","Cerveny","TuTh
+Tu","9:00 - 10:20
+13:10 - 17:00","22 of 23","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"BIOL 102 S05 - Topics in Biology II","Cerveny","TuTh
+W","9:00 - 10:20
+13:10 - 17:00","22 of 23","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"BIOL 102 S06 - Topics in Biology II","Cerveny","TuTh
+Th","9:00 - 10:20
+13:10 - 17:00","17 of 24","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"BIOL 131 S01 - Intro to Computational Biology","Ritz","MWF
+M","10:00 - 10:50
+13:10 - 15:00","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"BIOL 131 S02 - Intro to Computational Biology","Ritz","MWF
+Tu","10:00 - 10:50
+15:10 - 17:00","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"BIOL 181 S - Introduction to Neurobiology","Zornik","TuTh","10:30 - 11:50","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"PHIL 201 S02 - Logic","Bedau","TuTh","13:40 - 15:00","19 of 22","1 unit","In-Person Instruction Only","LECTURE"
+"PHIL 207 S - Persons and their Lives","Arkonovich","TuTh","9:00 - 10:20","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"PHIL 310 S - Metaphysics","Hinchliff","TuTh","9:00 - 10:20","12 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"PHIL 315 S - Philosophy of Language","Hinchliff","TuTh","10:30 - 11:50","10 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"PHIL 370 S - Junior Seminar","Scharle","TuTh","13:40 - 15:00","13 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"PHIL 412 S01 - Adv Topics: Computation","Bedau","W","13:10 - 16:00","5 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"PHIL 412 S02 - Adv Topics: Testimony & Trust","Cross","W","18:10 - 21:00","18 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"PHIL 470 Y - Thesis (Philosophy)","Staff",NA,"TBD","1 of 50","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"PHYB 470 Y - Thesis (Physics-Biology)","Staff",NA,"TBD","0 of 10","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"PHYS 102 S01 - General Physics II","Schroeter","MWF
+Tu","10:00 - 10:50
+10:30 - 11:50","13 of 24","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"PHYS 102 S02 - General Physics II","Schroeter","MWF
+W","10:00 - 10:50
+13:10 - 14:30","17 of 25","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"PHYS 102 S03 - General Physics II","Schroeter","MWF
+Th","10:00 - 10:50
+13:40 - 15:00","15 of 23","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"PHYS 102 S04 - General Physics II","Schroeter","MWF
+Tu","10:00 - 10:50
+13:40 - 15:00","12 of 24","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"PHYS 102 SL1 - General Physics II: Lab","Gross","M","13:10 - 16:00","11 of 16","0 units","In-Person Instruction Only","LAB"
+"PHYS 102 SL2 - General Physics II: Lab","Gross","Tu","13:40 - 16:30","9 of 16","0 units","In-Person Instruction Only","LAB"
+"PHYS 102 SL3 - General Physics II: Lab","Gross","Tu","13:40 - 16:30","10 of 16","0 units","In-Person Instruction Only","LAB"
+"PHYS 102 SL4 - General Physics II: Lab","Gross","Th","13:40 - 16:30","10 of 15","0 units","In-Person Instruction Only","LAB"
+"PHYS 102 SL5 - General Physics II: Lab","Gross","Th","13:40 - 16:30","7 of 15","0 units","In-Person Instruction Only","LAB"
+"PHYS 102 SL6 - General Physics II: Lab","Gross","M","13:10 - 16:00","10 of 16","0 units","In-Person Instruction Only","LAB"
+"PHYS 202 S01 - Modern Physics","Staff",NA,NA,NA,NA,NA,"LECTURE AND LAB | CANCELLED"
+"PHYS 202 S02 - Modern Physics","Crocker","MWF
+M
+W","10:00 - 10:50
+13:10 - 14:30
+13:10 - 16:00","12 of 14","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"PHYS 202 S03 - Modern Physics","Crocker","MWF
+M
+Th","10:00 - 10:50
+13:10 - 14:30
+13:40 - 16:30","11 of 13","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"PHYS 322 S - Electrodynamics II","Franklin","MWF","12:00 - 12:50","7 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"PHYS 323 S - Topics in Optics","Illing","TuTh","10:30 - 11:50","6 of 24","1 unit","In-Person Instruction Only","LECTURE"
+"PHYS 332 S01 - Advanced Laboratory II","Heath","Tu
+M","13:40 - 16:30
+15:10 - 16:00","6 of 8","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"PHYS 332 S02 - Advanced Laboratory II","Heath","W
+M","13:10 - 16:00
+15:10 - 16:00","7 of 8","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"PHYS 332 S03 - Advanced Laboratory II","Staff",NA,NA,NA,NA,NA,"LECTURE AND LAB | CANCELLED"
+"PHYS 342 S - Quantum Mechanics I","Schroeter","MWF","9:00 - 9:50","19 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"PHYS 362 S - Solid State Physics","Charles","MWF","11:00 - 11:50","10 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"PHYS 442 S - Quantum Mechanics II","Franklin","MWF","10:00 - 10:50","10 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"PHYS 470 Y - Thesis (Physics)","Staff",NA,"TBD","4 of 50","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"POL 240 S01 - Intro to Int 'l Relations","Montgomery","Th
+Tu","12:00 - 13:20
+13:40 - 15:00","14 of 24","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"POL 240 S02 - Intro to Int 'l Relations","Montgomery","Tu
+Th","13:40 - 15:00
+13:40 - 15:00","16 of 24","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"POL 240 S03 - Intro to Int 'l Relations","Musthaq","Tu
+Th","13:40 - 15:00
+15:10 - 16:30","8 of 24","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"POL 240 S04 - Intro to Int 'l Relations","Musthaq","Tu
+Th","13:40 - 15:00
+13:40 - 15:00","13 of 24","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"POL 280 S01 - Intro to Political Theory","Neame","Th
+Tu","10:30 - 11:50
+15:10 - 16:30","12 of 24","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"POL 280 S02 - Intro to Political Theory","Neame","Th
+Tu","12:00 - 13:20
+15:10 - 16:30","14 of 24","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"POL 280 S03 - Intro to Political Theory","Neame","Tu
+Th","15:10 - 16:30
+15:10 - 16:30","17 of 24","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"POL 300 S - Junior Research Seminar","Qi","MW","14:40 - 16:00","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"POL 324 S - Human Rights Latin America","Daby","TuTh","13:40 - 15:00","15 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"POL 335 S - Gender & Politics inthe Americas","Daby","TuTh","15:10 - 16:30","15 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"POL 351 S - Interdisciplinary Approaches","Montgomery","M","13:10 - 14:30","6 of 24","0.5 units","In-Person Instruction Only","CONFERENCE"
+"POL 352 S - Special Topics in ICPS","Montgomery","W","13:10 - 14:30","7 of 24","0.5 units","In-Person Instruction Only","CONFERENCE"
+"POL 362 S01 - State and Local Politics","Koski","TuTh","10:30 - 11:50","17 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"POL 362 S02 - State and Local Politics","Koski","TuTh","15:10 - 16:30","13 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"POL 377 S - Elections: American Style","Qi","MW","13:10 - 14:30","6 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"POL 403 S - Hegel and Marx","Steinberger","MW","10:00 - 11:20","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"POL 470 Y - Thesis (Political Science)","Staff",NA,"TBD","0 of 50","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"PSRL 470 Y - Thesis (Psychology-Religion)","Staff",NA,"TBD","0 of 10","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"PSY 200 S01 Qtr 1 - Methods-Health Psychology","Velkoff","M","14:40 - 16:00","Full (no wait list available)","0.25 units","In-Person Instruction Only","CONFERENCE"
+"PSY 200 S02 Qtr 2 - Methods-Health Psychology","Velkoff","M","14:40 - 16:00","Full (3 on wait list)","0.25 units","In-Person Instruction Only","CONFERENCE"
+"PSY 203 S01 Qtr 1 - Methods-Learng & Comprtv Psych","Jensen","Tu","10:30 - 11:50","Full (no wait list available)","0.25 units","In-Person Instruction Only","CONFERENCE"
+"PSY 203 S02 Qtr 2 - Methods-Learng & Comprtv Psych","Jensen","Tu","10:30 - 11:50","Full (4 on wait list)","0.25 units","In-Person Instruction Only","CONFERENCE"
+"PSY 204 S01 Qtr 1 - Methods-Educational Psychology","Corpus","M","13:10 - 14:30","Full (no wait list available)","0.25 units","In-Person Instruction Only","CONFERENCE"
+"PSY 204 S02 Qtr 2 - Methods-Educational Psychology","Corpus","M","13:10 - 14:30","Full (4 on wait list)","0.25 units","In-Person Instruction Only","CONFERENCE"
+"PSY 206 S01 Qtr 1 - Methods-Psychopathology","Anderson","Tu","13:40 - 15:00","Full (no wait list available)","0.25 units","In-Person Instruction Only","CONFERENCE"
+"PSY 206 S02 Qtr 2 - Methods-Psychopathology","Anderson","Tu","13:40 - 15:00","Full (10 on wait list)","0.25 units","In-Person Instruction Only","CONFERENCE"
+"PSY 207 S01 Qtr 1 - Methods-Social Psychology","Staff",NA,NA,NA,NA,NA,"CONFERENCE | CANCELLED"
+"PSY 207 S02 Qtr 2 - Methods-Social Psychology","Staff",NA,NA,NA,NA,NA,"CONFERENCE | CANCELLED"
+"PSY 208 S01 Qtr 1 - Methods-Cognitive Psychology","Safin","Th","13:40 - 15:00","Full (no wait list available)","0.25 units","In-Person Instruction Only","CONFERENCE"
+"PSY 208 S02 Qtr 2 - Methods-Cognitive Psychology","Safin","Th","13:40 - 15:00","Full (7 on wait list)","0.25 units","In-Person Instruction Only","CONFERENCE"
+"PSY 217 S - Neuroscience of Consciousness","Pitts","TuTh","15:10 - 16:30","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"PSY 253 S - Psychedelics & Mental Health","Ford","MWF","11:00 - 11:50","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"PSY 322 S - Social Psychology","Velkoff","MWF
+F","13:10 - 14:00
+14:40 - 16:00","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"PSY 326 S - Altruism and Self-Interest","Safin","MW","14:40 - 16:00","13 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"PSY 337 S - Psychophysiology","Staff",NA,NA,NA,NA,NA,"LECTURE | CANCELLED"
+"PSY 338 S - Psychopharmacology","Ford","MWF","14:40 - 15:30","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"PSY 348 S01 - Statistical Analysis Psychology","Anderson","MWF
+Tu","11:00 - 11:50
+12:00 - 12:50","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"PSY 348 S02 - Statistical Analysis Psychology","Anderson","MWF
+W","11:00 - 11:50
+13:10 - 14:00","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"PSY 361 S01 - Developmental Psychology","Corpus","TuTh
+Th","9:00 - 10:20
+11:00 - 11:50","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"PSY 361 S02 - Developmental Psychology","Corpus","TuTh
+Th","9:00 - 10:20
+12:00 - 12:50","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"PSY 373 S01 - Learning","Jensen","WF
+MWF","9:00 - 9:50
+10:00 - 10:50","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"PSY 373 S02 - Learning","Jensen","MWF
+WF","10:00 - 10:50
+12:00 - 12:50","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"PSY 381 S - Sensation & Perception","Pitts","TuTh
+W","12:00 - 13:20
+14:40 - 16:00","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"PSY 470 Y - Thesis (Psychology)","Staff",NA,"TBD","2 of 50","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"REAM 470 Y - Religion/Anc Medit Std Thesis","Staff",NA,"TBD","1 of 10","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"REL 123 S - Islam in the Modern World","Mixon","MWF","13:10 - 14:00","12 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"REL 132 S01 - Intro to South Asian Buddhism","Scheible","TuTh","10:30 - 11:50","20 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"REL 132 S02 - Intro to South Asian Buddhism","Scheible","TuTh","9:00 - 10:20","21 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"REL 151 S01 - Introduction to Judaism","Handy","MWF","12:00 - 12:50","23 of 25","1 unit","In-Person Instruction Only","CONFERENCE"
+"REL 151 S02 - Introduction to Judaism","Staff",NA,NA,NA,NA,NA,"CONFERENCE | CANCELLED"
+"REL 201 S - Theories & Methods","Foat","MWF","11:00 - 11:50","7 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"REL 259 S - Jews across the Americas","Leibman","MWF","11:00 - 11:50","18 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"REL 331 S - Lives of the Buddha","Scheible","TuTh","15:10 - 16:30","10 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"REL 348 S - Works of Mercy","Foat","MWF","10:00 - 10:50","8 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"REL 351 S - Bible and Ethnicity","Staff",NA,NA,NA,NA,NA,"CONFERENCE | CANCELLED"
+"REL 363 S01 - Holy Sh*t: Religious Things","Mixon","MW","14:40 - 16:00","11 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"REL 363 S02 - Holy Sh*t: Religious Things","Mixon","TuTh","13:40 - 15:00","9 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"REL 402 S - The Junior Seminar in Religion","Foat","MW","13:10 - 14:30","7 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"REL 470 Y - Thesis & Symposium (Religion)","Staff",NA,"TBD","1 of 50","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"REPO 470 Y - Thesis (Religion-Pol Science)","Staff",NA,"TBD","0 of 10","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"RTHE 470 Y - Thesis (Religion-Theatre)","Staff",NA,"TBD","0 of 5","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"RUAN 470 Y - Thesis (Russian-Anthropology)","Staff",NA,"TBD","0 of 10","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"RUSS 112 S01 - First-Year Russian II","Staff",NA,NA,NA,NA,NA,"CONFERENCE | CANCELLED"
+"RUSS 112 S02 - First-Year Russian II","Bershtein","MTuWThF","12:00 - 12:50","6 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"RUSS 220 Y - Second-Year Russian","Grinberg","MTuWThF","12:00 - 12:50","4 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"RUSS 373 S - 20th-Century Russian Lit","Grinberg","TuTh","13:40 - 15:00","15 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"RUSS 385 S - Pushkin 's ""Eugene Onegin ""","Bershtein","W","18:10 - 21:00","11 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"RUSS 394 S - Arctic Awakenings","Caffee","TuTh","15:10 - 16:30","20 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"RUSS 470 Y - Thesis (Russian)","Staff",NA,"TBD","1 of 40","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"SA 300 S - Study Abroad / Away","del Rio Malo",NA,"TBD","43 of 100","3.5 units","Instruction mode N/A","INDEPENDENT STUDY"
+"SOC 211 S01 - Introduction to Sociology","Ozkan","MW","13:10 - 14:30","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"SOC 211 S02 - Introduction to Sociology","Ozkan","MW","14:40 - 16:00","14 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"SOC 211 S03 - Introduction to Sociology","Kwon","TuTh","12:00 - 13:20","22 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"SOC 211 S04 - Introduction to Sociology","Hrycak","TuTh","13:40 - 15:00","11 of 18","1 unit","In-Person Instruction Only","CONFERENCE"
+"SOC 231 S - Organizations","Schneiberg","Tu","18:10 - 21:00","19 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"SOC 280 S - Social Movements","Hrycak","MW","14:40 - 16:00","20 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"SOC 311 S - Research Methods","Schneiberg","TuTh","10:30 - 11:50","7 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"SOC 352 S - Sociology of Money","Ozkan","TuTh","13:40 - 15:00","16 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"SOC 371 S - Military & Society","Kwon","TuTh","13:40 - 15:00","22 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"SOC 390 S - Junior Research Colloquium","Schneiberg","F","9:00 - 11:50","5 of 24","0.5 units","In-Person Instruction Only","CONFERENCE"
+"SOC 470 Y - Thesis (Sociology)","Staff",NA,"TBD","1 of 40","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"SOSP 470 Y - Thesis (Sociology/Spanish)","Staff",NA,"TBD","0 of 10","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"SPAN 112 S01 - Beginning Spanish II","Drumm","MTuWF","12:00 - 12:50","17 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"SPAN 112 S02 - Beginning Spanish II","VanBladel","MTuWF","10:00 - 10:50","9 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"SPAN 212 S01 - Intermediate Spanish II","VanBladel","MWF","11:00 - 11:50","12 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"SPAN 212 S02 - Intermediate Spanish II","VanBladel","MWF","12:00 - 12:50","10 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"SPAN 361 S - Decentering the Human","Kroll","MW","13:10 - 14:30","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"SPAN 366 S - Lorca: Theater and Poetry","Drumm","TuTh","10:30 - 11:50","16 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"SPAN 372 S - Documentary Resistance","López Lerma","TuTh","13:40 - 15:00","21 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"SPAN 470 Y - Thesis (Spanish)","Staff",NA,"TBD","0 of 40","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"THDC 470 Y - Thesis (Theatre/Dance)","Staff",NA,"TBD","0 of 24","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"THEA 100 S01 - Theatre Lab","Wu",NA,"TBD","11 of 24","0.5 units","In-Person Instruction Only","STUDIO"
+"THEA 100 S02 - Theatre Lab","Ksander",NA,"TBD","15 of 24","0.5 units","In-Person Instruction Only","STUDIO"
+"THEA 100 S03 - Theatre Lab","Tamimi",NA,"TBD","8 of 24","0.5 units","In-Person Instruction Only","STUDIO"
+"THEA 202 S - Intro to Theatrical Design","Ksander","TuTh","10:30 - 11:50","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"THEA 204 S - Acting & Performance: Movement","Wu","MW","14:40 - 16:00","10 of 15","0.5 units","In-Person Instruction Only","STUDIO"
+"THEA 215 S - Improv","Wu","TuTh","15:10 - 16:30","23 of 24","1 unit","In-Person Instruction Only","STUDIO"
+"THEA 233 S - Devising","Duffly","TuTh","10:30 - 11:50","11 of 15","1 unit","In-Person Instruction Only","STUDIO"
+"THEA 237 S - Reimagining Classics","Tamimi","TuTh","12:00 - 13:20","5 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"THEA 252 S - Theatre Hist II: Naturalism-9/11","Tamimi","TuTh","15:10 - 16:30","7 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"THEA 276 S - Community-based Performance","Duffly","TuTh
+M","13:40 - 15:00
+18:10 - 21:00","11 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"THEA 470 Y - Thesis (Theatre)","Staff",NA,"TBD","0 of 40","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"BIOL 211 S - Scientific Lit & Discourse","Zornik","F
+F","12:00 - 12:50
+13:10 - 14:30","7 of 24","0.5 units","In-Person Instruction Only","CONFERENCE"
+"BIOL 273 S - Evolution","Schaack","TuTh","10:30 - 11:50","21 of 24","1 unit","In-Person Instruction Only","LECTURE"
+"BIOL 313 S01 - Forest Canopy Ecophysiology","Prather","WF
+W","8:30 - 9:50
+13:10 - 17:00","13 of 16","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"BIOL 313 S02 - Forest Canopy Ecophysiology","Prather","WF
+Th","8:30 - 9:50
+13:40 - 17:30","11 of 16","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"BIOL 332 S01 - Vascular Plant Diversity","Karoly","MWF
+W","11:00 - 11:50
+13:10 - 17:00","12 of 16","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"BIOL 332 S02 - Vascular Plant Diversity","Karoly","MWF
+Th","11:00 - 11:50
+13:40 - 17:30","11 of 16","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"BIOL 358 S01 - Microbiology","Mellies","MWF
+Th","10:00 - 10:50
+13:40 - 17:30","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"BIOL 358 S02 - Microbiology","Mellies","MWF
+F","10:00 - 10:50
+13:10 - 17:00","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"BIOL 363 S01 - Genes, Genetics, & Genomes","Coate","TuTh
+Tu","10:30 - 11:50
+13:40 - 17:30","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"BIOL 363 S02 - Genes, Genetics, & Genomes","Coate","TuTh
+W","10:30 - 11:50
+13:10 - 17:00","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"BIOL 372 S01 - Cellular Biology","Applewhite","MW
+W","8:30 - 9:50
+13:10 - 17:00","14 of 17","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"BIOL 372 S02 - Cellular Biology","Applewhite","MW
+Th","8:30 - 9:50
+13:40 - 17:30","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"BIOL 431 S01 - Sem: Developmental Neurobio","Cerveny","Th","18:10 - 20:30","16 of 24","0.5 units","In-Person Instruction Only","CONFERENCE"
+"BIOL 431 S02 - Sem: Forest Canopy Research","Ramirez","Tu","13:40 - 15:00","12 of 24","0.5 units","In-Person Instruction Only","CONFERENCE"
+"BIOL 431 S03 - Sem: Evolution 's Rainbow","Anderson","M","14:40 - 16:00","15 of 23","0.5 units","In-Person Instruction Only","CONFERENCE"
+"BIOL 431 S04 - Sem: Genome Evolution","Schaack","Tu","15:10 - 16:30","5 of 23","0.5 units","In-Person Instruction Only","CONFERENCE"
+"BIOL 470 Y - Thesis (Biology)","Staff",NA,"TBD","1 of 40","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"BIPH 470 Y - Thesis (Biology-Philosophy)","Staff",NA,"TBD","0 of 10","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"BIPY 470 Y - Thesis (Biology-Psych)","Staff",NA,"TBD","0 of 24","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"BMB 470 Y - Thesis (Biochem/Molecular Bio)","Staff",NA,"TBD","0 of 24","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"CHEM 010 S - Reactor Seminar","Newhouse","M","19:45 - 21:00","15 of 50","0 units","Instruction mode N/A","SEMINAR"
+"CHEM 102 S11 - Chemical Reactivity","El-Mansy","MWF
+W","10:00 - 10:50
+15:10 - 16:00","15 of 24","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"CHEM 102 S12 - Chemical Reactivity","El-Mansy","MWF
+Th","10:00 - 10:50
+15:10 - 16:00","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"CHEM 102 S21 - Chemical Reactivity","Cass","MWF
+W","11:00 - 11:50
+13:40 - 14:30","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"CHEM 102 S22 - Chemical Reactivity","Cass","MWF
+W","11:00 - 11:50
+15:10 - 16:00","11 of 16","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"CHEM 102 S23 - Chemical Reactivity","Cass","MWF
+Th","11:00 - 11:50
+11:00 - 11:50","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"CHEM 102 S31 - Chemical Reactivity","Dannenhoffer-Lafage","MWF
+Th","11:00 - 11:50
+11:00 - 11:50","10 of 15","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"CHEM 102 S32 - Chemical Reactivity","Dannenhoffer-Lafage","MWF
+Th","11:00 - 11:50
+13:40 - 14:30","8 of 16","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"CHEM 102 S33 - Chemical Reactivity","Dannenhoffer-Lafage","MWF
+Th","11:00 - 11:50
+15:10 - 16:00","13 of 16","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"CHEM 102 SL1 - Chemical Reactivity: Lab","Poletti","M","13:10 - 16:00","Full (no wait list available)","0 units","In-Person Instruction Only","LAB"
+"CHEM 102 SL2 - Chemical Reactivity: Lab","Poletti","Tu","9:00 - 11:50","17 of 22","0 units","In-Person Instruction Only","LAB"
+"CHEM 102 SL3 - Chemical Reactivity: Lab","Poletti","Tu","13:40 - 16:30","21 of 22","0 units","In-Person Instruction Only","LAB"
+"CHEM 102 SL4 - Chemical Reactivity: Lab","Poletti","W","13:10 - 16:00","11 of 20","0 units","In-Person Instruction Only","LAB"
+"CHEM 102 SL5 - Chemical Reactivity: Lab","Poletti","W","18:10 - 21:00","21 of 23","0 units","In-Person Instruction Only","LAB"
+"CHEM 102 SL6 - Chemical Reactivity: Lab","Poletti","Th","13:40 - 16:30","19 of 21","0 units","In-Person Instruction Only","LAB"
+"CHEM 202 S01 - Organic Chemistry II","O'Brien","MWF","9:00 - 9:50","20 of 24","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"CHEM 202 S02 - Organic Chemistry II","O'Brien","MWF","10:00 - 10:50","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"CHEM 202 S03 - Organic Chemistry II","McGhee","MWF","11:00 - 11:50","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"CHEM 202 S04 - Organic Chemistry II","McGhee","MWF","9:00 - 9:50","14 of 24","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"CHEM 202 SL1 - Organic Chemistry II: Lab","Ni","Tu
+M","13:40 - 17:30
+18:10 - 19:00","Full (no wait list available)","0 units","In-Person Instruction Only","LAB AND LAB-LECTURE"
+"CHEM 202 SL2 - Organic Chemistry II: Lab","Ni","W
+M","13:10 - 17:00
+18:10 - 19:00","19 of 21","0 units","In-Person Instruction Only","LAB AND LAB-LECTURE"
+"CHEM 202 SL3 - Organic Chemistry II: Lab","Ni","Th
+M","12:00 - 15:50
+18:10 - 19:00","17 of 21","0 units","In-Person Instruction Only","LAB AND LAB-LECTURE"
+"CHEM 202 SL4 - Organic Chemistry II: Lab","Ni","F
+M","13:10 - 17:00
+18:10 - 19:00","Full (no wait list available)","0 units","In-Person Instruction Only","LAB AND LAB-LECTURE"
+"CHEM 212 S - Inorganic Chemistry","Bowring","MWF
+M","11:00 - 11:50
+13:10 - 17:00","9 of 24","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"CHEM 230 S - Environmental Chemistry","Gratz","MW","13:10 - 14:30","16 of 24","1 unit","In-Person Instruction Only","LECTURE"
+"CHEM 315 S - Physical Chemistry Laboratory","James","F","13:10 - 17:00","15 of 24","0.5 units","In-Person Instruction Only","LAB"
+"CHEM 316 S - P-Chem Lab: Diatomic Spectra","Staff",NA,NA,NA,NA,NA,"LECTURE | CANCELLED"
+"CHEM 324 S - Adv Physical Organic Chem","Campillo-Alvarado","TuTh","13:40 - 15:00","7 of 24","1 unit","In-Person Instruction Only","LECTURE"
+"CHEM 332 S - Chem Thermodynamics & Kinetics","James","TuTh","12:00 - 13:20","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE"
+"CHEM 392 S - Biochemical Homeostasis","Chacón","TuTh","9:00 - 10:20","17 of 24","1 unit","In-Person Instruction Only","LECTURE"
+"CHEM 394 S - Biochemical Methods","Chacón","M
+Tu","12:00 - 12:50
+13:40 - 17:30","15 of 16","0.5 units","In-Person Instruction Only","LECTURE AND LAB"
+"CHEM 470 Y - Thesis (Chemistry)","Staff",NA,"TBD","0 of 40","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"CHIN 112 S01 - Beginning Chinese II","Wu","MTuWThF","11:00 - 11:50","7 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"CHIN 112 S02 - Beginning Chinese II","Wu","MTuWThF","12:00 - 12:50","8 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"CHIN 212 S01 - Intermediate Chinese II","Jiang","MTuWThF","11:00 - 11:50","6 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"CHIN 212 S02 - Intermediate Chinese II","Jiang","MTuWThF","12:00 - 12:50","8 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"CHIN 316 S - Classical Chinese","Rhew","MWF","11:00 - 11:50","7 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"CHIN 325 S - Songs to Lost Music: Ci-Poetry","Rhew","MWF","14:40 - 15:30","6 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"CHIN 346 S - Screening Post-Socialist China","Jiang","TuTh","15:10 - 16:30","12 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"CHIN 470 Y - Thesis (Chinese)","Staff",NA,"TBD","0 of 24","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"CMPL 201 S - Intro to Comp Lit","López Lerma","TuTh","12:00 - 13:20","20 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"CMPL 470 Y - Thesis (Comparative Lit)","Staff",NA,"TBD","0 of 24","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"CPHY 470 Y - Thesis (Chemistry-Physics)","Staff",NA,"TBD","0 of 24","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"CRES 150 S - The Cultural Study of Music","Luker","TuTh","9:00 - 10:20","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"CRES 254 S - Africa and Black Music","Burford","TuTh","10:30 - 11:50","20 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"CRES 300 S - JSem: Race and Immigration","Silverstein","W","18:10 - 21:00","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"CRES 321 S - Bible and Ethnicity","Staff",NA,NA,NA,NA,NA,"CONFERENCE | CANCELLED"
+"CRES 333 S - Jews across the Americas","Leibman","MWF","11:00 - 11:50","18 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"CRES 385 S01 - Race, Ethnicity and Empire","Natarajan","MW","13:10 - 14:30","18 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"CRES 385 S02 - Race, Ethnicity and Empire","Natarajan","MW","14:40 - 16:00","14 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"CRES 470 Y - Thesis (Comp Race & Ethn)","Staff",NA,"TBD","0 of 24","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"CRWR 201 S - Making Fiction","Jaffe","TuTh","13:40 - 15:00","12 of 15","1 unit","In-Person Instruction Only","CONFERENCE"
+"CRWR 224 S - Introduction to Poetry Wkshp","Kane","TuTh","12:00 - 13:20","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"CRWR 321 S - Revision and Beyond","Jaffe","TuTh","10:30 - 11:50","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"CRWR 331 S01 - Intermediate Poetry Workshop","Kane","M","18:10 - 21:00","10 of 15","1 unit","In-Person Instruction Only","CONFERENCE"
+"CRWR 331 S02 - Advanced Poetry Workshop","Kane","TuTh","13:40 - 15:00","8 of 15","1 unit","In-Person Instruction Only","CONFERENCE"
+"CSCI 121 S01 - Computer Science I","Blum","MWF","13:10 - 14:30","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"CSCI 121 S02 - Computer Science I","Staff",NA,NA,NA,NA,NA,"LECTURE AND LAB | CANCELLED"
+"CSCI 221 S01 - Computer Science II","Anderson","MW
+Th","13:10 - 14:30
+18:10 - 19:30","12 of 18","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"CSCI 221 S02 - Computer Science II","Anderson","MW
+Th","13:10 - 14:30
+19:40 - 21:00","10 of 18","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"CSCI 378 S - Deep Learning","Anderson","MWF","11:00 - 11:50","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE"
+"CSCI 382 S - Algorithms & Data Structures","Blum","MW","14:40 - 16:00","22 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"CSCI 387 S01 - Computability & Complexity","Groce","MW","13:10 - 14:30","21 of 24","1 unit","In-Person Instruction Only","LECTURE"
+"CSCI 387 S02 - Computability & Complexity","Staff",NA,NA,NA,NA,NA,"LECTURE AND LAB | CANCELLED"
+"CSCI 389 S - Computer Systems","McGuffey","MWF","10:00 - 10:50","15 of 24","1 unit","In-Person Instruction Only","LECTURE"
+"CSCI 396 S - Computer Networks","McGuffey","MWF","12:00 - 12:50","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"CSCI 441 S - Topics In Computer Sci Theory","Pommersheim","TuTh","9:00 - 10:20","13 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"CSCI 470 Y - Thesis (Computer Science)","Staff",NA,"TBD","2 of 40","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"CSMA 470 Y - Thesis (Math/Computer Sci)","Staff",NA,"TBD","0 of 24","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"DANC 100 S01 - Dance Production","Mann",NA,"TBD","2 of 24","0 units","In-Person Instruction Only","STUDIO"
+"DANC 100 S02 - Dance Production","Mann",NA,"TBD","2 of 24","0.5 units","In-Person Instruction Only","STUDIO"
+"DANC 101 SB1 - Ballet I-II","Fortuna","MW","18:10 - 19:30","1 of 6","0.5 units","In-Person Instruction Only","STUDIO"
+"DANC 101 SB3 - Ballet III-IV","Fortuna","MW","16:40 - 18:00","1 of 6","0.5 units","In-Person Instruction Only","STUDIO"
+"DANC 101 SH1 - Hip Hop Dance I-II","Fortuna","F","16:40 - 18:00","0 of 6","0.5 units","In-Person Instruction Only","STUDIO"
+"DANC 101 SH3 - Hip-Hop Dance III-IV","Fortuna","Tu","18:10 - 19:30","2 of 6","0.5 units","In-Person Instruction Only","STUDIO"
+"DANC 101 ST1 - Tango I - II","Fortuna","TuTh","15:10 - 16:30","1 of 6","0.5 units","In-Person Instruction Only","STUDIO"
+"DANC 112 S01 - Intro Cntp Dance: Cross Culture","Parsons-Akinjiola","TuTh","10:30 - 11:50","4 of 18","0.5 units","In-Person Instruction Only","STUDIO"
+"DANC 112 S02 - Intro Cntp Dance: Cross Culture","Parsons-Akinjiola","TuTh","10:30 - 11:50","4 of 18","1 unit","In-Person Instruction Only","STUDIO"
+"DANC 252 S01 - Improvisation","Mann","MW","14:40 - 16:00","19 of 24","0.5 units","In-Person Instruction Only","CONFERENCE"
+"DANC 252 S02 - Improvisation","Mann","MW","14:40 - 16:00","19 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"DANC 313 S01 - Contemporary Dance V","Parsons-Akinjiola","MW","13:10 - 14:30","4 of 18","0.5 units","In-Person Instruction Only","STUDIO"
+"DANC 313 S02 - Contemporary Dance V","Parsons-Akinjiola","MW","13:10 - 14:30","4 of 18","1 unit","In-Person Instruction Only","STUDIO"
+"DANC 362 S - Dance Ethnography","Fortuna","TuTh","13:40 - 15:00","5 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"DANC 411 S01 - Advanced Technique & Perform","Parsons-Akinjiola","TuTh","12:00 - 13:20","12 of 18","0.5 units","In-Person Instruction Only","STUDIO"
+"DANC 411 S02 - Advanced Technique & Perform","Parsons-Akinjiola","TuTh","12:00 - 13:20","12 of 18","1 unit","In-Person Instruction Only","STUDIO"
+"DANC 470 Y - Thesis (Dance)","Staff",NA,"TBD","0 of 24","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"ECMA 470 Y - Thesis (Economics/Mathematics)","Staff",NA,"TBD","0 of 24","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"ECON 201 S01 - Intro to Economic Analysis","Rork","MWF","10:00 - 10:50","24 of 26","1 unit","In-Person Instruction Only","CONFERENCE"
+"ECON 201 S02 - Intro to Economic Analysis","Rork","MWF","11:00 - 11:50","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"ECON 201 S03 - Intro to Economic Analysis","Carrera","MW","13:10 - 14:30","17 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ECON 201 S04 - Intro to Economic Analysis","Carrera","MW","14:40 - 16:00","13 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ECON 281 S - Revolution & Reform Chinese Ag","Hare","MW","18:10 - 19:30","8 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ECON 312 S - Theory & Practice Econometrics","Carrera","TuTh","9:00 - 10:20","14 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ECON 314 S - Macroeconomic Theory","Cottle Hunt","TuTh","15:10 - 16:30","14 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ECON 315 S - Game Theory","Rork","MWF","12:00 - 12:50","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"ECON 358 S - Urban Economics","Rork","MWF","13:40 - 14:30","15 of 24","1 unit","Instruction mode N/A","CONFERENCE"
+"ECON 366 S - Jobs, Technology and Trade","Hare","MW","14:40 - 16:00","20 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ECON 371 S - Law and Economics","Staff",NA,NA,NA,NA,NA,"CONFERENCE | CANCELLED"
+"ECON 382 S - Economics of Development","Novak","TuTh","13:40 - 15:00","16 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ECON 393 S - Health & Consumer Behavior","Novak","TuTh","10:30 - 11:50","20 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ECON 416 S - Computational Macroeconomics","Cottle Hunt","TuTh","12:00 - 13:20","5 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ECON 470 Y - Thesis (Economics)","Staff",NA,"TBD","0 of 40","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"ECPS 470 Y - Thesis (Economics-Psychology)","Staff",NA,"TBD","0 of 10","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"ENG 205 S01 - Tolkien and Lewis","Faletra","MWF","12:00 - 12:50","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"ENG 205 S02 - Tolkien and Lewis","Faletra","MWF","11:00 - 11:50","23 of 25","1 unit","In-Person Instruction Only","CONFERENCE"
+"ENG 213 S01 - Ethnopoetics","Leibman","TuTh","9:00 - 10:20","19 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ENG 213 S02 - Ethnopoetics","Leibman","TuTh","12:00 - 13:20","22 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ENG 242 S - Irish Drama & Politics of Place","Wagner-McCoy","TuTh","10:30 - 11:50","21 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ENG 301 S01 - Junior Seminar","Martínez","MW","14:40 - 16:00","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"ENG 301 S02 - Junior Seminar","Martínez","TuTh","15:10 - 16:30","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"ENG 303 S - Jews across the Americas","Leibman","MWF","11:00 - 11:50","18 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ENG 333 S - Postcolonial Hauntings","Rajbhandari","MW","14:40 - 16:00","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"ENG 352 S - Middle English Literature","Faletra","MW","14:40 - 16:00","22 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ENG 366 S - Remixing the Canon","Miller","TuTh","12:00 - 13:20","23 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ENG 381 S - City in Film","Harkin","TuTh","10:30 - 11:50","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"ENG 383 S - Adaptation Across Media","Sanders","TuTh
+W","16:40 - 18:00
+18:10 - 21:00","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"ENG 400 S - Intro to Literary Theory","King","TuTh","15:10 - 16:30","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"ENG 470 Y - Thesis (English)","Staff",NA,"TBD","4 of 40","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"ENG 566 S - Beauty & The Poetic Text","Staff",NA,NA,NA,NA,NA,"CONFERENCE | CANCELLED"
+"ENV 200 S - Intro to Environmental Studies","Gratz","TuTh","13:40 - 15:00","21 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ENV 300 S - Junior Seminar","Ramirez","TuTh","9:00 - 10:20","19 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"ENV 470 Y - Thesis (Environmental Studies)","Staff",NA,"TBD","2 of 40","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"FREN 112 S01 - Beginning French II","Monnin","MTuWThF","11:00 - 11:50","5 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"FREN 112 S02 - Beginning French II","Monnin","MTuWThF","12:00 - 12:50","8 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"FREN 212 S01 - Intermediate French II","Hochman","MWF","11:00 - 11:50","14 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"FREN 212 S02 - Intermediate French II","Hochman","MWF","12:00 - 12:50","9 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"FREN 320 S - Advanced French Language","Witt","MWF","11:00 - 11:50","7 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"FREN 328 S - Monstrous & Human in Fr Lit","Delehanty","MW","14:40 - 16:00","18 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"FREN 363 S - Francophone Literature","Hochman","TuTh","12:00 - 13:20","6 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"FREN 390 S - Postwar French Cinema","Witt","TuTh","13:40 - 15:00","11 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"FREN 391 S - French Literature and Culture","Monnin","MW","14:40 - 16:00","5 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"FREN 470 Y - Thesis (French)","Staff",NA,"TBD","0 of 24","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"GER 112 S01 - Beginning German II","Garloff","MTuWThF","11:00 - 11:50","10 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"GER 112 S02 - Beginning German II","Mieszkowski","MTuWThF","12:00 - 12:50","9 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"GER 212 S - Intermediate German II","Fraser","MTuWTh","12:00 - 12:50","11 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"GER 312 S - Adv Ger II: Contemp German Lit","Garloff","MW","13:10 - 14:30","5 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"GER 335 S - Contemp German Lit","Garloff","MW","13:10 - 14:30","5 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"GER 375 S - Androids in Science and Lit","Fraser","MW","14:40 - 16:00","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"GER 470 Y - Thesis (German)","Staff",NA,"TBD","0 of 24","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"GLAM 470 Y - Thesis","Staff",NA,"TBD","2 of 10","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"GRK 111 S - First Year Greek Part I","Landvatter","MTuWThF","11:00 - 11:50","9 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"GRK 201 S - Intermediate Greek","Nicholson","MTuWTh","11:00 - 11:50","3 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"GRK 302 S - Advanced Greek II","Sabnis","TuTh","10:30 - 11:50","4 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"HISL 470 Y - Thesis (History-Literature)","Staff",NA,"TBD","0 of 24","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"HIST 206 S - Anti-Colonial Movements","Matsushita","MWF","10:00 - 10:50","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"HIST 224 S - Modern China thru Foreign Eyes","Zhang","TuTh","13:40 - 15:00","22 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"HIST 272 S01 - Gender and the American Family","Dirks","MW","13:10 - 14:30","22 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"HIST 272 S02 - Gender and the American Family","Dirks","TuTh","15:10 - 16:30","23 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"HIST 307 S - War/Peace in Europe 1700-1914","Miller","TuTh","9:00 - 10:20","21 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"HIST 315 S01 - Race, Ethnicity and Empire","Natarajan","MW","13:10 - 14:30","18 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"HIST 315 S02 - Race, Ethnicity and Empire","Natarajan","MW","14:40 - 16:00","14 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"HIST 317 S - The American Earth","Howe","TuTh","10:30 - 11:50","17 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"HIST 345 S - Whole Earths & World Pictures","Lazier","W","17:40 - 20:30","20 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"HIST 376 S - The United States in the 1970s","Dirks","TuTh","12:00 - 13:20","20 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"HIST 411 S - JSem: Writing Hist 16th C Mexico","Garrett","TuTh","15:10 - 16:30","11 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"HIST 421 S - War, Justice, Society US 1846-65","Minardi","MW","14:40 - 16:00","8 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"HIST 470 Y - Thesis (History)","Staff",NA,"TBD","1 of 40","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"HUM 110 Y01 - Introduction to the Humanities","Caffee","MWF
+TuTh","9:00 - 9:50
+9:00 - 10:20","15 of 17","1.5 units","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 110 Y02 - Introduction to the Humanities","Delehanty","MWF
+MWF","9:00 - 9:50
+10:00 - 10:50","16 of 17","1.5 units","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 110 Y03 - Introduction to the Humanities","Handy","MWF
+TuTh","9:00 - 9:50
+10:30 - 11:50","15 of 17","1.5 units","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 110 Y04 - Introduction to the Humanities","Chang","MWF
+MWF","9:00 - 9:50
+11:00 - 11:50","16 of 17","1.5 units","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 110 Y05 - Introduction to the Humanities","Golubović","MWF
+MWF","9:00 - 9:50
+13:10 - 14:00","14 of 17","1.5 units","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 110 Y06 - Introduction to the Humanities","King","MWF
+TuTh","9:00 - 9:50
+10:30 - 11:50","15 of 17","1.5 units","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 110 Y07 - Introduction to the Humanities","Kroll","MWF
+MWF","9:00 - 9:50
+11:00 - 11:50","16 of 17","1.5 units","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 110 Y08 - Introduction to the Humanities","Matsushita","MWF
+MWF","9:00 - 9:50
+12:00 - 12:50","Full (no wait list available)","1.5 units","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 110 Y09 - Introduction to the Humanities","Mieszkowski","MWF
+MW","9:00 - 9:50
+14:40 - 16:00","15 of 17","1.5 units","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 110 Y10 - Introduction to the Humanities","Minardi","MWF
+MWF","9:00 - 9:50
+11:00 - 11:50","15 of 17","1.5 units","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 110 Y11 - Introduction to the Humanities","Nicholson","MWF
+TuTh","9:00 - 9:50
+13:40 - 15:00","16 of 17","1.5 units","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 110 Y12 - Introduction to the Humanities","Rajbhandari","MWF
+TuTh","9:00 - 9:50
+12:00 - 13:20","Full (no wait list available)","1.5 units","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 110 Y13 - Introduction to the Humanities","Sanders","MWF
+MWF","9:00 - 9:50
+10:00 - 10:50","14 of 17","1.5 units","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 110 Y14 - Introduction to the Humanities","Scharle","MWF
+MW","9:00 - 9:50
+13:10 - 14:30","16 of 17","1.5 units","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 110 Y15 - Introduction to the Humanities","Steinberger","MWF
+MW","9:00 - 9:50
+13:10 - 14:30","Full (no wait list available)","1.5 units","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 110 Y16 - Introduction to the Humanities","Alcantar","MWF
+TuTh","9:00 - 9:50
+13:40 - 15:00","9 of 17","1.5 units","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 110 Y17 - Introduction to the Humanities","Simpson","MWF
+MWF","9:00 - 9:50
+11:00 - 11:50","15 of 17","1.5 units","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 110 Y18 - Introduction to the Humanities","Sakai","MWF
+MWF","9:00 - 9:50
+12:00 - 12:50","16 of 17","1.5 units","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 110 Y19 - Introduction to the Humanities","Arkonovich","MWF
+TuTh","9:00 - 9:50
+12:00 - 13:20","11 of 17","1.5 units","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 110 Y20 - Introduction to the Humanities","Chang","MWF
+MWF","9:00 - 9:50
+10:00 - 10:50","15 of 17","1.5 units","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 110 Y21 - Introduction to the Humanities","Riley","MWF
+TuTh","9:00 - 9:50
+12:00 - 13:20","Full (no wait list available)","1.5 units","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 110 Y22 - Introduction to the Humanities","Miller","MWF
+MWF","9:00 - 9:50
+10:00 - 10:50","Full (no wait list available)","1.5 units","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 110 Y23 - Introduction to the Humanities","Cross","MWF
+MW","9:00 - 9:50
+14:40 - 16:00","14 of 17","1.5 units","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 212 S01 - The Birth of the Modern II","Martínez","MW","13:10 - 14:30
+TBD","10 of 24","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 212 S02 - The Birth of the Modern II","Katz","TuTh","13:40 - 15:00
+TBD","11 of 24","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 212 S03 - The Birth of the Modern II","Garrett","TuTh","10:30 - 11:50
+TBD","18 of 24","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 220 Y01 - Modern European Humanities","Staff",NA,NA,NA,NA,NA,"LECTURE AND CONFERENCE | CANCELLED"
+"HUM 220 Y02 - Modern European Humanities","Lazier","TuTh","10:30 - 11:50
+TBD","8 of 24","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 220 Y03 - Modern European Humanities","Natarajan","TuTh","13:40 - 15:00
+TBD","12 of 24","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 220 Y04 - Modern European Humanities","Harkin","TuTh","15:10 - 16:30
+TBD","12 of 24","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 231 S01 - Early Imp China: Qin-Han Unif","Wang","MW
+MW","10:00 - 10:50
+18:10 - 19:30","4 of 24","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"HUM 231 S02 - Early Imp China: Qin-Han Unif","Zhang","MW
+TuTh","10:00 - 10:50
+12:00 - 13:20","3 of 24","1 unit","In-Person Instruction Only","LECTURE AND CONFERENCE"
+"ICPS 301 S - Interdisciplinary Approaches","Montgomery","M","13:10 - 14:30","6 of 24","0.5 units","In-Person Instruction Only","CONFERENCE"
+"ICPS 302 S - Special Topics in ICPS","Montgomery","W","13:10 - 14:30","7 of 24","0.5 units","In-Person Instruction Only","CONFERENCE"
+"ICPS 470 Y - Thesis (Intl Policy Studies)","Staff",NA,"TBD","0 of 24","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"LAT 112 S - First Year Latin Part II","Golubović","MTuWThF","12:00 - 12:50","11 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"LAT 301 S - Advanced Latin I","Sabnis","TuTh","12:00 - 13:20","12 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"LBST 511 S - Freedom, Movement, Borders","Riley","W","17:40 - 19:10","3 of 15","0.5 units","In-Person Instruction Only","CONFERENCE"
+"LING 212 S01 - Sociolinguistic Patterns","Becker","TuTh","9:00 - 10:20","21 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"LING 212 S02 - Sociolinguistic Patterns","Becker","TuTh","10:30 - 11:50","22 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"LING 312 S - Topics in Linguistic Analysis","Todorovic","TuTh","10:30 - 11:50","9 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"LING 320 S - Phonetics","Khan","MW","13:10 - 14:30","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"LING 323 S - Introductory Syntax","Todorovic","MW","14:40 - 16:00","18 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"LING 324 S - Research Topics in Syntax","Todorovic","TuTh","15:10 - 16:30","1 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"LING 336 S - Linguistic Field Methods","Khan","W","18:10 - 21:00","6 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"LING 412 S - Research in Sociolinguistics","Becker","TuTh","13:40 - 15:00","6 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"LING 470 Y - Thesis (Linguistics)","Staff",NA,"TBD","0 of 24","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"LIT 209 S - Introduction to Film Studies","Grinberg","MW","13:10 - 14:30","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"LIT 328 S - Monstrous & Human in Fr Lit","Delehanty","MW","14:40 - 16:00","18 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"LIT 346 S - Introduction to Media Studies","Cohen","MW","13:10 - 14:30","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"LIT 400 S - Intro to Literary Theory","King","TuTh","15:10 - 16:30","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"LIT 502 S - Epidemic and Community","Gökberk","Th","17:40 - 19:10","5 of 15","0.5 units","Instruction mode N/A","CONFERENCE"
+"LITC 325 S - Songs to Lost Music: Ci-Poetry","Rhew","MWF","14:40 - 15:30","6 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"LITC 346 S - Screening Post-Socialist China","Jiang","TuTh","15:10 - 16:30","12 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"LITG 346 S - Intro to Media Studies","Staff",NA,NA,NA,NA,NA,"CONFERENCE | CANCELLED"
+"LITG 375 S - Androids in Science and Lit","Fraser","MW","14:40 - 16:00","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"LITL 261 S - Greek and Roman Mythology","Sabnis","TuTh","15:10 - 16:30","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"LITR 373 S - 20th-Century Russian Lit","Grinberg","TuTh","13:40 - 15:00","15 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"LITR 394 S - Arctic Awakenings","Caffee","TuTh","15:10 - 16:30","20 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"LITS 361 S - Decentering the Human","Kroll","MW","13:10 - 14:30","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"LITS 372 S - Documentary Resistance","López Lerma","TuTh","13:40 - 15:00","21 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"LTHE 470 Y - Thesis (Literature-Theatre)","Staff",NA,"TBD","0 of 24","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"MALS 670 S - Master of Arts Thesis","Staff",NA,"TBD","1 of 15","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"MATH 111 S01 - Calculus","Chang","MWF","11:00 - 11:50","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"MATH 111 S02 - Calculus","Chang","MWF","12:00 - 12:50","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"MATH 112 S01 - Intro to Analysis","Perkinson","MWF","12:00 - 12:50","13 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"MATH 112 S02 - Intro to Analysis","Moll","TuTh","10:30 - 11:50","19 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"MATH 112 S03 - Intro to Analysis","Robinson","MWF","11:00 - 11:50","21 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"MATH 112 S04 - Intro to Analysis","Robinson","MWF","12:00 - 12:50","17 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"MATH 113 S01 - Discrete Structures","Osorno","MWF","10:00 - 10:50","15 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"MATH 113 S02 - Discrete Structures","Osorno","MWF","11:00 - 11:50","20 of 23","1 unit","In-Person Instruction Only","CONFERENCE"
+"MATH 113 S03 - Discrete Structures","Osorno","MWF","12:00 - 12:50","17 of 23","1 unit","In-Person Instruction Only","CONFERENCE"
+"MATH 141 S01 - Intro to Probability & Statist","Wainstein","Th
+MWF","9:00 - 10:20
+10:00 - 10:50","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"MATH 141 S02 - Intro to Probability & Statist","Wainstein","Th
+MWF","9:00 - 10:20
+13:10 - 14:00","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"MATH 141 S03 - Intro to Probability & Statist","Wainstein","MWF
+Th","10:00 - 10:50
+10:30 - 11:50","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"MATH 141 S04 - Intro to Probability & Statist","Wainstein","Th
+MWF","10:30 - 11:50
+13:10 - 14:00","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"MATH 141 S05 - Intro to Probability & Statist","Wainstein","MWF
+Th","10:00 - 10:50
+13:40 - 15:00","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"MATH 141 S06 - Intro to Probability & Statist","Wainstein","MWF
+Th","13:10 - 14:00
+13:40 - 15:00","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE AND LAB"
+"MATH 201 S01 - Linear Algebra","Pommersheim","TuTh","10:30 - 11:50","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"MATH 201 S02 - Linear Algebra","Pommersheim","TuTh","13:40 - 15:00","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"MATH 202 S01 - Vector Calculus","Meyer","MWF","11:00 - 11:50","25 of 30","1 unit","In-Person Instruction Only","CONFERENCE"
+"MATH 202 S02 - Vector Calculus","Staff",NA,NA,NA,NA,NA,"CONFERENCE | CANCELLED"
+"MATH 241 S - Data Science","Allorant","TuTh","15:10 - 16:30","Full (no wait list available)","1 unit","In-Person Instruction Only","LECTURE"
+"MATH 311 S - Complex Analysis","Chang","MWF","13:10 - 14:00","9 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"MATH 322 S - Ordinary Differential Equation","Moll","TuTh","9:00 - 10:20","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"MATH 332 S01 - Abstract Algebra","Daugherty","TuTh","10:30 - 11:50","14 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"MATH 332 S02 - Abstract Algebra","Daugherty","TuTh","13:40 - 15:00","19 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"MATH 342 S - Topology","Meyer","MWF","14:40 - 15:30","10 of 23","1 unit","In-Person Instruction Only","LECTURE"
+"MATH 346 S - Bayesian Statistics","Pearce","TuTh","13:40 - 15:00","17 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"MATH 361 S - Number Theory","Shurman","MTuWF","10:00 - 10:50","14 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"MATH 382 S - Algorithms & Data Structures","Blum","MW","14:40 - 16:00","22 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"MATH 387 S01 - Computability & Complexity","Groce","MW","13:10 - 14:30","21 of 24","1 unit","In-Person Instruction Only","LECTURE"
+"MATH 387 S02 - Computability & Complexity","Staff",NA,NA,NA,NA,NA,"LECTURE AND LAB | CANCELLED"
+"MATH 392 S - Mathematical Statistics","Wainstein","MWF","9:00 - 9:50","8 of 24","1 unit","In-Person Instruction Only","LECTURE"
+"MATH 411 S - Topics in Advanced Analysis","Shurman","MWF","9:00 - 9:50","12 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"MATH 441 S - Topics In Computer Sci Theory","Pommersheim","TuTh","9:00 - 10:20","13 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"MATH 470 Y - Thesis (Mathematics)","Staff",NA,"TBD","1 of 40","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"MPHY 470 Y - Thesis (Mathematics/Physics)","Staff",NA,"TBD","0 of 24","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"MUS 101 S - Private Instruction","Bunch",NA,"TBD","100 of 102","0.5 units","In-Person Instruction Only","INDEPENDENT STUDY"
+"MUS 101 SNC - Private Instruction","Bunch",NA,"TBD","Full (no wait list available)","0 units","In-Person Instruction Only","INDEPENDENT STUDY"
+"MUS 104 SCR - Orchestra","Bunch","TuTh","19:40 - 21:00","27 of 50","0.5 units","In-Person Instruction Only","STUDIO"
+"MUS 104 SNC - Orchestra","Bunch","TuTh","19:40 - 21:00","27 of 50","0 units","In-Person Instruction Only","STUDIO"
+"MUS 105 SCR - Chorus","Mallis","W","18:10 - 20:30","17 of 60","0.5 units","In-Person Instruction Only","STUDIO"
+"MUS 105 SNC - Chorus","Mallis","W","18:10 - 20:30","17 of 60","0 units","In-Person Instruction Only","STUDIO"
+"MUS 106 SCR - Treble Voices Ensemble","Staff",NA,NA,NA,NA,NA,"STUDIO | CANCELLED"
+"MUS 106 SNC - Treble Voices Ensemble","Staff",NA,NA,NA,NA,NA,"STUDIO | CANCELLED"
+"MUS 107 SCR - Collegium Musicum","Mallis","TuTh","16:40 - 18:00","13 of 30","0.5 units","In-Person Instruction Only","STUDIO"
+"MUS 107 SNC - Collegium Musicum","Mallis","TuTh","16:40 - 18:00","13 of 30","0 units","In-Person Instruction Only","STUDIO"
+"MUS 108 SCR - Jazz Ensemble","Bunch","M","17:10 - 20:00","24 of 30","0.5 units","In-Person Instruction Only","STUDIO"
+"MUS 108 SNC - Jazz Ensemble","Bunch","M","17:10 - 20:00","24 of 30","0 units","In-Person Instruction Only","STUDIO"
+"MUS 109 SCR - Chamber Music","Bunch",NA,"TBD","28 of 30","0.5 units","In-Person Instruction Only","STUDIO"
+"MUS 109 SNC - Chamber Music","Bunch",NA,"TBD","28 of 30","0 units","In-Person Instruction Only","STUDIO"
+"MUS 150 S - The Cultural Study of Music","Luker","TuTh","9:00 - 10:20","Full (no wait list available)","1 unit","In-Person Instruction Only","CONFERENCE"
+"MUS 205 S - Musicianship & Ear Training","Yoon","TuTh","13:40 - 15:00","8 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"MUS 210 S - Music Theory and Practice II","Bunch","MW","13:10 - 14:30","19 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"MUS 222 S - Music History II: Amer aft 1800","Burford","MW","14:40 - 16:00","9 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"MUS 254 S - Africa and Black Music","Burford","TuTh","10:30 - 11:50","20 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"MUS 277 S - Music and Politics","Luker","MW","13:10 - 14:30","16 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"MUS 305 S - Musical Ethnography","Luker","TuTh","12:00 - 13:20","19 of 24","1 unit","In-Person Instruction Only","CONFERENCE"
+"MUS 316 S - Songwriting & Storytelling","Yoon","M","18:10 - 21:00","Full (no wait list available)","1 unit","In-Person Instruction Only","STUDIO"
+"MUS 470 Y - Thesis (Music)","Staff",NA,"TBD","0 of 40","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"NEUR 470 Y - Thesis (Neuroscience)","Staff",NA,"TBD","0 of 24","1 unit","Instruction mode N/A","INDEPENDENT STUDY"
+"PE 103 100 Qtr 1 - Dance Production PE Credit","Mann",NA,"TBD","1 of 24","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 112 Qtr 1 - Intro Cntp Dance: Cross PE Cr","Parsons-Akinjiola","TuTh","10:30 - 11:50","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 252 Qtr 1 - Improvisation PE Credit","Mann","MW","14:40 - 16:00","4 of 6","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 313 Qtr 1 - Contemp Dance V: PE Credit","Parsons-Akinjiola","MW","13:10 - 14:30","2 of 6","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 3B1 Qtr 1 - Ballet I-II PE Credit","Fortuna","MW","18:10 - 19:30","16 of 24","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 3B3 Qtr 1 - Ballet III-IV PE Credit","Fortuna","MW","16:40 - 18:00","16 of 24","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 3H1 Qtr 1 - Hip Hop Dance I-II PE Credit","Fortuna","F","16:40 - 18:00","23 of 24","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 3H3 Qtr 1 - Hip-Hop Dance III-IV PE Credit","Fortuna","Tu","18:10 - 19:30","19 of 24","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 3T1 Qtr 1 - Tango I-II PE Credit","Fortuna","TuTh","15:10 - 16:30","14 of 30","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 411 Qtr 1 - Adv Technique & Perform: PE Cr","Parsons-Akinjiola","TuTh","12:00 - 13:20","0 of 6","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 BLA Qtr 1 - Bouldering","Sofich","M","18:10 - 21:00","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 BLB Qtr 1 - Bouldering","Sofich","W","18:10 - 21:00","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 BOW Qtr 1 - Bowling","McCormack","Tu","15:10 - 17:30","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 JUG Qtr 1 - Juggling","Celarier","W","19:10 - 21:00","40 of 46","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 KBC Qtr 1 - Cardio Kickboxing","Edelson","MW","17:10 - 18:00","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 MA1 Qtr 1 - Intro to Martial Arts","Morrison","TuTh","16:10 - 17:00","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 MA2 Qtr 1 - Fighting Fit Martial Arts Cond","Morrison","TuTh","17:10 - 18:00","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 MWA Qtr 1 - Mindful Walking at Reed","Granger","W","12:00 - 12:50","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 MWB Qtr 1 - Mindful Walking at Reed","Granger","W","16:10 - 17:00","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 PIL Qtr 1 - Pilates","Bradley","MW","12:00 - 12:50","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 RGB Qtr 1 - Rugby","Baravilala","Su
+W","12:00 - 14:00
+16:10 - 18:00","19 of 40","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 SDA Qtr 1 - Applied Fitness & Self Defense","Thomas","F","16:10 - 18:10","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 SDF Qtr 1 - Self Defense","Morrison","TuTh","15:10 - 16:00","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 SDT Qtr 1 - Self Defense: Theory & Fitness","Thomas","F","13:45 - 15:45","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 SKC Qtr 1 - Cross-Country Skiing","Sofich","Tu","18:10 - 21:00","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 SKI Qtr 1 - Skiing: Dwnhll-Nord-Tlmrk-Snwbd","Lombardo","F","13:40 - 23:00","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 SQB Qtr 1 - Squash - Beginning","Zaharchuk","TuTh","15:10 - 16:00","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 SQI Qtr 1 - Squash - Intermediate","Zaharchuk","TuTh","16:10 - 17:00","7 of 12","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 SQT Qtr 1 - Squash - Team","Zaharchuk","MW","18:10 - 20:00","5 of 15","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 ST1 Qtr 1 - Strength Training - Beginning","Holverson","Tu","16:40 - 18:30","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 ST2 Qtr 1 - Strength Training - Advanced","Holverson","Th","16:40 - 18:30","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 TC1 Qtr 1 - Tai Chi - Beginning","Sitt","TuTh","15:10 - 16:00","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 TC2 Qtr 1 - Tai Chi - Intermediate","Sitt","TuTh","16:10 - 17:00","2 of 16","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 UFB Qtr 1 - Ultimate Frisbee","Hursey","Su
+F","14:10 - 16:00
+16:10 - 18:00","28 of 40","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 VOL Qtr 1 - Volleyball","Prewitt","MW","16:10 - 17:00","23 of 25","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 WRC Qtr 1 - Weight Room Confidence","Prior","TuTh","19:10 - 20:00","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 XAM Qtr 1 - A.M. Yoga - All Levels","Kraai","MW","7:45 - 8:45","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 XHF Qtr 1 - A.M. Yoga - Hatha Flow","Ansley","TuTh","7:45 - 8:45","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 XY1 Qtr 1 - Yoga - Hatha","Lake-Freeman","TuTh","17:10 - 18:00","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 XYI Qtr 1 - Yoga - Hatha Intermediate","Ansley","MW","16:40 - 17:30","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 XYR Qtr 1 - Yoga for Relaxation","Lake-Freeman","TuTh","18:10 - 19:00","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 XYV Qtr 1 - Yoga - Vinyasa Flow","Johnson","TuTh","12:00 - 12:50","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 103 ZUM Qtr 1 - Zumba - 1","Yago","TuTh","20:10 - 21:00","Full (no wait list available)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 100 Qtr 2 - Dance Production PE Credit","Mann",NA,"TBD","1 of 24","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 112 Qtr 2 - Intro Cntp Dance: Cross PE Cr","Parsons-Akinjiola","TuTh","10:30 - 11:50","Full (0 on wait list)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 252 Qtr 2 - Improvisation PE Credit","Mann","MW","14:40 - 16:00","5 of 6","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 313 Qtr 2 - Contemp Dance V: PE Credit","Parsons-Akinjiola","MW","13:10 - 14:30","2 of 6","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 411 Qtr 2 - Adv Technique & Perform: PE Cr","Parsons-Akinjiola","TuTh","12:00 - 13:20","0 of 6","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 4B1 Qtr 2 - Ballet I-II PE Credit","Fortuna","MW","18:10 - 19:30","21 of 24","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 4B3 Qtr 2 - Ballet III-IV PE Credit","Fortuna","MW","16:40 - 18:00","14 of 24","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 4H1 Qtr 2 - Hip Hop Dance I-II PE Credit","Fortuna","F","16:40 - 18:00","14 of 24","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 4H3 Qtr 2 - Hip-Hop Dance III-IV PE Credit","Fortuna","Tu","18:10 - 19:30","12 of 24","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 4T1 Qtr 2 - Tango I-II PE Credit","Fortuna","TuTh","15:10 - 16:30","9 of 30","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 ARI Qtr 2 - Archery - Intermediate/Adv","Benson","TuTh","16:10 - 17:00","Full (1 on wait list)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 BCN Qtr 2 - Backcountry Navigation","Sofich","Tu","18:10 - 21:00","Full (15 on wait list)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 BIR Qtr 2 - Birding Reed","Granger","Th","7:00 - 8:50","Full (19 on wait list)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 BKA Qtr 2 - Bike Clinic","Clark","Tu","16:40 - 18:30","7 of 12","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 BKB Qtr 2 - Bike Clinic","Clark","W","16:40 - 18:30","7 of 12","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 BLD Qtr 2 - Bouldering","Sofich","W","18:10 - 21:00","Full (18 on wait list)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 CLS Qtr 2 - Rock Climbing Skills","Sofich","M","18:10 - 21:00","Full (19 on wait list)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 DG1 Qtr 2 - Disc Golf 101","Kallio","M","13:10 - 16:30","6 of 11","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 JUG Qtr 2 - Juggling","Celarier","W","19:10 - 21:00","Full (1 on wait list)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 KBC Qtr 2 - Cardio Kickboxing","Edelson","MW","17:10 - 18:00","Full (7 on wait list)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 MA1 Qtr 2 - Intro to Martial Arts","Morrison","TuTh","16:10 - 17:00","11 of 14","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 MA2 Qtr 2 - Fighting Fit Martial Arts Cond","Morrison","TuTh","17:10 - 18:00","Full (0 on wait list)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 MWA Qtr 2 - Mindful Walking at Reed","Granger","W","12:00 - 12:50","Full (18 on wait list)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 MWB Qtr 2 - Mindful Walking at Reed","Granger","W","16:10 - 17:00","Full (17 on wait list)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 OSC Qtr 2 - Outdoor Skills Class","Symms","W","15:10 - 17:20","Full (10 on wait list)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 PIL Qtr 2 - Pilates","Bradley","MW","12:00 - 12:50","Full (13 on wait list)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 RGB Qtr 2 - Rugby","Baravilala","Su
+W","12:00 - 13:50
+16:10 - 18:00","6 of 40","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 SCC Qtr 2 - Soccer - Co Ed Class","Beutler","M","16:10 - 18:00","Full (1 on wait list)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 SDA Qtr 2 - Applied Fitness & Self Defense","Thomas","F","16:10 - 18:10","Full (0 on wait list)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 SDF Qtr 2 - Self Defense","Morrison","TuTh","15:10 - 16:00","9 of 12","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 SDT Qtr 2 - Self Defense: Theory & Fitness","Thomas","F","13:45 - 15:45","11 of 12","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 SQB Qtr 2 - Squash - Beginning","Zaharchuk","TuTh","15:10 - 16:00","11 of 12","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 SQI Qtr 2 - Squash - Intermediate","Zaharchuk","TuTh","16:10 - 17:00","5 of 12","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 SQT Qtr 2 - Squash - Team","Zaharchuk","MW","18:10 - 20:00","5 of 15","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 ST1 Qtr 2 - Strength Training - Beginning","Holverson","Tu","16:40 - 18:30","Full (11 on wait list)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 ST2 Qtr 2 - Strength Training - Advanced","Holverson","Th","16:40 - 18:30","Full (10 on wait list)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 TC1 Qtr 2 - Tai Chi - Beginning","Sitt","TuTh","15:10 - 16:00","Full (3 on wait list)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 TC2 Qtr 2 - Tai Chi - Intermediate","Sitt","TuTh","16:10 - 17:00","3 of 16","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 UFB Qtr 2 - Ultimate Frisbee","Hursey","Su
+F","14:10 - 16:00
+16:10 - 18:00","17 of 40","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 VOL Qtr 2 - Volleyball","Prewitt","MW","16:10 - 17:00","Full (8 on wait list)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 XAM Qtr 2 - A.M. Yoga - All Levels","Kraai","MW","7:45 - 8:45","20 of 25","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 XHF Qtr 2 - A.M. Yoga - Hatha Flow","Ansley","TuTh","7:45 - 8:45","19 of 25","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 XY1 Qtr 2 - Yoga - Hatha","Lake-Freeman","TuTh","17:10 - 18:00","Full (6 on wait list)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 XYI Qtr 2 - Yoga - Hatha Intermediate","Ansley","MW","16:40 - 17:30","18 of 25","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 XYR Qtr 2 - Yoga for Relaxation","Lake-Freeman","TuTh","18:10 - 19:00","Full (14 on wait list)","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 XYV Qtr 2 - Yoga - Vinyasa Flow","Johnson","TuTh","12:00 - 12:50","16 of 25","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 104 ZUM Qtr 2 - Zumba - 2","Yago","TuTh","20:10 - 21:00","16 of 20","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 203 CLI Qtr 1 - Climbing - Independent","Symms",NA,"TBD","13 of 15","0 units","Instruction mode N/A","PHYSICAL EDUCATION"
+"PE 203 OFF Qtr 1 - Off-Campus PE","Lombardo",NA,"TBD","8 of 20","0 units","Instruction mode N/A","PHYSICAL EDUCATION"
+"PE 203 RUN Qtr 1 - Running Club","Crocker","Tu","17:10 - 18:00","Full (no wait list available)","0 units","Online Instruction Only","PHYSICAL EDUCATION"
+"PE 204 CLI Qtr 2 - Climbing - Independent","Symms",NA,"TBD","Full (1 on wait list)","0 units","Instruction mode N/A","PHYSICAL EDUCATION"
+"PE 204 OFF Qtr 2 - Off Campus PE","Lombardo",NA,"TBD","6 of 20","0 units","Instruction mode N/A","PHYSICAL EDUCATION"
+"PE 204 RUN Qtr 2 - Running Club","Crocker","Tu","17:10 - 18:00","Full (3 on wait list)","0 units","Online Instruction Only","PHYSICAL EDUCATION"
+"PE 303 CME Qtr 1 - Community Engagement","Tsang",NA,"TBD","2 of 20","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 304 CME Qtr 2 - Community Engagement","Tsang",NA,"TBD","0 of 20","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 403 EXL Qtr 1 - Experiential Learning","Martin",NA,"TBD","2 of 20","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PE 404 EXL Qtr 2 - Experiential Learning","Martin",NA,"TBD","0 of 20","0 units","In-Person Instruction Only","PHYSICAL EDUCATION"
+"PHIL 201 S01 - Logic","Bedau","TuTh","12:00 - 13:20","23 of 25","1 unit","In-Person Instruction Only","LECTURE"

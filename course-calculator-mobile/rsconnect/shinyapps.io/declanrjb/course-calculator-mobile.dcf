@@ -1,0 +1,12 @@
+name: course-calculator-mobile
+title: course-calculator-mobile
+username: declanrjb
+account: declanrjb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11688214
+bundleId: 8463447
+url: https://declanrjb.shinyapps.io/course-calculator-mobile/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
